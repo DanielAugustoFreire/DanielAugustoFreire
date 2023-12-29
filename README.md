@@ -1,16 +1,47 @@
-### Hi there 👋
+# Meu Portfólio
 
-<!--
-**DanielAugustoFreire/DanielAugustoFreire** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Sobre Mim
 
-Here are some ideas to get you started:
+Meu nome é [Seu Nome] e sou um(a) [sua profissão]. Tenho paixão por [seus interesses] e estou sempre buscando aprender coisas novas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Experiência Profissional
+
+### [Nome da Empresa ou Projeto] (Data de Início - Data de Término)
+- Descrição breve das responsabilidades e realizações.
+
+### [Outro Emprego ou Projeto] (Data de Início - Data de Término)
+- Descrição breve das responsabilidades e realizações.
+
+## Projetos
+
+### [Nome do Projeto] (Data de Início - Data de Conclusão)
+- Descrição do projeto, tecnologias utilizadas e seu papel no projeto.
+
+### [Outro Projeto] (Data de Início - Data de Conclusão)
+- Descrição do projeto, tecnologias utilizadas e seu papel no projeto.
+
+## Educação
+
+### [Nome da Instituição] - [Grau Obtido] (Ano de Início - Ano de Conclusão)
+- Descrição do curso, disciplinas relevantes e conquistas acadêmicas.
+
+## Habilidades Técnicas
+
+- Lista de habilidades técnicas, como linguagens de programação, ferramentas e frameworks.
+
+## Certificações
+
+- Lista de certificações relevantes, se aplicável.
+
+## Contato
+
+- Email: [Seu Email]
+- LinkedIn: [Perfil do LinkedIn]
+- GitHub: [Perfil do GitHub]
+- Website: [Seu Website, se aplicável]
+
+## Idiomas
+
+- Idioma 1: [Seu Nível]
+- Idioma 2: [Seu Nível]
+
