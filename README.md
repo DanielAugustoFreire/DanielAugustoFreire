@@ -1,56 +1,42 @@
-[# Portfólio de Desenvolvimento
+<h2 align="left">Oi 👋! Sou Daniel, de IEPÊ, localizada no Oeste Paulista</h2>
 
-## Sobre Mim
+###
 
-Olá! Eu sou [Seu Nome], um(a) entusiasta de desenvolvimento de software com uma paixão por criar soluções inovadoras. Meu foco principal é [suas principais tecnologias ou áreas de interesse].
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+</div>
 
-## Experiência Profissional
+###
 
-### [Nome da Empresa] - Desenvolvedor Full Stack (Data de Início - Data de Término)
-- Desenvolvimento e manutenção de aplicações web utilizando [tecnologias específicas].
-- Colaboração com equipes multifuncionais para alcançar objetivos de projeto.
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielAugustoFreire&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielAugustoFreire&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-### [Outra Empresa] - Estagiário de Desenvolvimento de Software (Data de Início - Data de Término)
-- Contribuições para o desenvolvimento de recursos chave em projetos usando [tecnologias específicas].
-- Participação em reuniões de planejamento e revisões de código.
+###
 
-## Projetos
+<img align="left" height="200" src="https://www.guiadoturismobrasil.com/up/img/1543436731.jpg"  />
 
-### [Nome do Projeto] (Data de Início - Data de Conclusão)
-- Desenvolvido [descrição breve do projeto], utilizando [tecnologias específicas].
-- Destaque para desafios superados e lições aprendidas.
+###
 
-### [Outro Projeto] (Data de Início - Data de Conclusão)
-- Implementação de [descrição breve do projeto], incluindo [tecnologias específicas].
-- Resultados obtidos e feedback recebido.
+<div align="left">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <a href="https://www.linkedin.com/in/daniel-augusto-sant-ana-6a662b258/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
-## Educação
-
-### [Nome da Universidade] - Bacharel em Ciência da Computação (Ano de Início - Ano de Conclusão)
-- Ênfase em [áreas específicas de estudo].
-- Projeto de Tese: [Título da Tese].
-
-## Habilidades Técnicas
-
-- **Linguagens de Programação:** [Lista de linguagens, por exemplo, JavaScript, Python, Java].
-- **Frameworks:** [Lista de frameworks, por exemplo, React, Django, Spring].
-- **Banco de Dados:** [Experiência em SQL, MongoDB].
-- **Ferramentas de Controle de Versão:** [Git, GitHub].
-- **Metodologias Ágeis:** Experiência prática com metodologias Scrum e Kanban.
-
-## Certificações
-
-- **Certificação em [Nome da Certificação]:** Concluída em [Data].
-
-## Contato
-
-- **Email:** [Seu Email]
-- **LinkedIn:** [Perfil do LinkedIn]
-- **GitHub:** [Perfil do GitHub]
-- **Website/Blog:** [Seu Website, se aplicável]
-
-## Projetos Pessoais
-
-- [Projeto Pessoal 1: Breve descrição e link, se disponível]
-- [Projeto Pessoal 2: Breve descrição e link, se disponível]
-](https://profile-readme-generator.com/result)https://profile-readme-generator.com/result
+###
