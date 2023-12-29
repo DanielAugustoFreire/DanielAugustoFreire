@@ -37,7 +37,7 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img height="200" src="https://www.guiadoturismobrasil.com/up/img/1543436731.jpg"  />
 </div>
 
