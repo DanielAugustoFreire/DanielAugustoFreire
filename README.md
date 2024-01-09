@@ -1,4 +1,4 @@
-<h2 align="left">Oi 👋! Sou Daniel, de IEPÊ, localizada no Oeste Paulista</h2>
+<h2 align="left">Hi, I am Daniel Augusto</h2>
 
 ###
 
@@ -20,11 +20,18 @@
 
 ###
 
-<br clear="both">
+<img align="right" height="200" src="https://img-fotki.yandex.ru/get/9326/181450557.8d/0_afe18_74540b10_orig.gif"  />
+
+###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielAugustoFreire&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="200" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielAugustoFreire&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=DanielAugustoFreire&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DanielAugustoFreire&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+###
+
+<img src="https://raw.githubusercontent.com/DanielAugustoFreire/DanielAugustoFreire/output/snake.svg" alt="Snake animation" />
+
+
 
 ###
